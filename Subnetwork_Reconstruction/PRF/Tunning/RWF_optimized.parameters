@@ -1,0 +1,8 @@
+interactome	alpha	threshold
+ConsensusPath	0.2	0.7
+Hippie	0.15	0.76
+HuRI	0.07	0.62
+iREF	0.17	0.79
+OmniPath	0.17	0.82
+PathwayCommons	0.18	0.55
+STRING	0.24	0.67
